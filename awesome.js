@@ -19,7 +19,7 @@ const app = new Vue({
 		postlist: [
 		
 		new Post(
-				'First Post! Yay!',
+				'This is a first Post',
 				'https://google.com',
 				'An Author',
 				'https://unsplash.it/200',
@@ -27,7 +27,7 @@ const app = new Vue({
 				),
 
 			new Post(
-				'Second Post: Lorem',
+				'Second Post: some crap',
 				'https://vuejs.org',
 				'Sammie Author',
 				'img-200.jpg',

@@ -19,43 +19,43 @@ const app = new Vue({
 		postlist: [
 		
 		new Post(
-				'This is a first Post',
-				'https://google.com',
-				'An Author',
-				'https://unsplash.it/200',
-				 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
+				'Ludwig van Beethoven',
+				'http://www.biography.com/people/ludwig-van-beethoven-9204862',
+				'Biography.com',
+				'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg',
+				 'Composer Ludwig van Beethoven was baptized on December 17, 1770, in Bonn, Germany. He was an innovator, widening the scope of sonata, symphony, concerto and quartet, and combining vocals and instruments in a new way. His personal life was marked by a struggle against deafness, and some of his most important works were composed during the last 10 years of his life, when he was quite unable to hear. He died in 1827 at the age of 56.'
 				),
 
 			new Post(
-				'Second Post: some crap',
-				'https://vuejs.org',
-				'Sammie Author',
-				'img-200.jpg',
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
+				'Wolfgang Amadeus Mozart',
+				'http://www.biography.com/people/wolfgang-mozart-9417115',
+				'Biography.com',
+				'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/170px-Wolfgang-amadeus-mozart_1.jpg',
+				'Born on January 27, 1756, in Salzburg, Austria, Wolfgang Amadeus Mozart was a musician capable of playing multiple instruments who started playing in public at the age of 6. Over the years, Mozart aligned himself with a variety of European venues and patrons, composing hundreds of works that included sonatas, symphonies, masses, chamber music, concertos and operas, marked by vivid emotion and sophisticated textures.'
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels. Lonsectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
+				'Franz Joseph Haydn',
+				'http://www.biography.com/people/franz-joseph-haydn-9332156',
+				'Biography.com',
+				'https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg',
+				'Franz Joseph Haydn was among the creators of the fundamental genres of classical music, and his influence upon later composers is immense. Haydn’s most celebrated pupil was Ludwig van Beethoven, and his musical form casts a huge shadow over the music of subsequent composers such as Schubert, Mendelssohn and Brahms.'
 				),
 
 			new Post(
-				'Another Post: Promptly judged',
-				'https://vuejs.org',
-				'Jane Author',
-				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize. Adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
+				'Pyotr Ilyich Tchaikovsky',
+				'http://www.biography.com/people/pyotr-ilyich-tchaikovsky-9503375',
+				'Biography.com',
+				'https://www.biography.com/.image/t_share/MTE5NTU2MzE2Mzg0OTUzODY3/piotr-ilyich-tchaikovsky-9503375-1-402.jpg',
+				'Composer Pyotr Ilyich Tchaikovsky was born on May 7, 1840, in Vyatka, Russia. His work was first publicly performed in 1865. In 1868, his First Symphony was well-received. In 1874, he established himself with Piano Concerto No.1 in B-flat Minor. Tchaikovsky resigned from the Moscow Conservatory in 1878, and spent the rest of his career composing yet more prolifically. He died in St. Petersburg on November 6, 1893.'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'https://unsplash.it/200',
-				'Jaded zombies acted quaintly but kept driving their oxen forward. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi.'
+				'Philip Glass',
+				'http://www.biography.com/people/philip-glass-9313058',
+				'Biography.com',
+				'http://images.nymag.com/arts/classicaldance/classical/reviews/philipglass120206_560.jpg',
+				'Musician Philip Glass, born on January 31, 1937, in Baltimore, went on to study with Nadia Boulanger and Ravi Shankar, later forming the Philip Glass Ensemble. He received accolades for his debut opera, Einstein on the Beach, and eventually earned Oscar nominations for scoring the films Kundun, The Hours and Notes on a Scandal. Known for his distinctive contemporary minimalism, Glass has worked with artists from a variety of disciplines.'
 				)
 		]
 	},

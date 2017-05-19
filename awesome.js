@@ -56,7 +56,16 @@ const app = new Vue({
 				'Biography.com',
 				'http://images.nymag.com/arts/classicaldance/classical/reviews/philipglass120206_560.jpg',
 				'Musician Philip Glass, born on January 31, 1937, in Baltimore, went on to study with Nadia Boulanger and Ravi Shankar, later forming the Philip Glass Ensemble. He received accolades for his debut opera, Einstein on the Beach, and eventually earned Oscar nominations for scoring the films Kundun, The Hours and Notes on a Scandal. Known for his distinctive contemporary minimalism, Glass has worked with artists from a variety of disciplines.'
-				)
+				),
+				
+			new Post(
+				'Johann Sebastian Bach',
+				'http://www.biography.com/people/johann-sebastian-bach-9194289',
+				'Biography.com',
+				'http://cps-static.rovicorp.com/3/JPG_400/MI0003/738/MI0003738578.jpg?partner=allrovi.com',
+				'Born on March 31, 1685 (N.S.), in Eisenach, Thuringia, Germany, Johann Sebastian Bach had a prestigious musical lineage and took on various organist positions during the early 18th century, creating famous compositions like "Toccata and Fugue in D minor." Some of his best-known compositions are the "Mass in B Minor," the "Brandenburg Concertos" and "The Well-Tempered Clavier." Bach died in Leipzig, Germany, on July 28, 1750. Today, he is considered one of the greatest Western composers of all time.'
+				),
+				
 		]
 	},
 	computed: {
